@@ -1,0 +1,1 @@
+Ngx.print("HELLO")
